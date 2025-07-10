@@ -53,8 +53,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-[git clone https://github.com/adrianhajdin/aora.git
-cd aora](https://github.com/RandyLizzy2012/ASAB_media_mobile_app_23/tree/main)
+https://github.com/RandyLizzy2012/ASAB_media_mobile_app_23/tree/main
 ```
 **Installation**
 
